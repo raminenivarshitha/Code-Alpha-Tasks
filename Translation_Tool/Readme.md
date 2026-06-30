@@ -171,7 +171,7 @@ This project helped in understanding:
 
 ## 👨‍💻 Author
 
-**YANDRAPATI PRAVEEN KISHORE**
+**RAMINENI VARSHITHA**
 
 B.Tech Computer Science and Engineering Student
 
